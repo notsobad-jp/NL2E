@@ -1,3 +1,0 @@
-create database khcoder;
-create user 'khcoder'@'%' identified by 'khcoder';
-grant all on *.* to 'khcoder'@'%';
